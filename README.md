@@ -22,10 +22,10 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 ## PROJETO
 
 - ### Introdução
-     Mapeamento de dados coletados pelo site do governo, possibilitando a análise do fluxo de transporte de mercadorias importadas e exportadas.
+     Mapeamento de dados coletados pelo site do governo, possibilitando a análise do fluxo de transporte de mercadorias exportadas, análise geográfica do fluxo de exportações do estado de São Paulo.
 
 - ### Objetivo
-     Desenvolvimento de uma interface gráfica, permitindo que o cliente possa ter uma análise visual, interativa e ágil do fluxo de dados disponibilizado. Tendo em base, os dados retirados do ComexStat (base de dados do governo), e por meio destes criar uma interface que auxilie e melhore a análise acertiva de movimentação.
+     Desenvolvimento de uma interface gráfica, permitindo que o cliente possa ter uma análise visual, interativa e ágil do fluxo de dados disponibilizado. Tendo em base, os dados retirados do ComexStat (base de dados do governo), e por meio destes criar uma interface que auxilie e melhore a análise acertiva dos modais utilizados nas movimentações internacionais de cargas e criar um modelo de previsibilidade de movimentação futura no estado de SP.
 
 - ### Projeto (API) 
      Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -65,16 +65,16 @@ Valores
 
 ## PRAZOS
 
-> - [x] Kick-off do Projeto -    |
-> - [ ] Entrega Sprint 00   -    |
-> - [ ] Entrega Sprint 01   -    |
-> - [ ] Entrega Sprint 02   -    |
-> - [ ] Entrega Sprint 03   -    |
-> - [ ] Feira de Soluções   -    |
+> - [x] Kick-off do Projeto -   11/03/2024 |
+> - [ ] Entrega Sprint 00   -   15/04/2024 |
+> - [ ] Entrega Sprint 01   -   06/05/2024 |
+> - [ ] Entrega Sprint 02   -   27/05/2024 |
+> - [ ] Entrega Sprint 03   -   17/06/2024 |
+> - [ ] Feira de Soluções   -   27/06/2024 |
 
 
 ### Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, onde é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### [Cronograma das Sprints](adicionar o jira)
 
