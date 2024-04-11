@@ -35,7 +35,8 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 
 <p align="center">
   
-![Red White and Black Modern Football Club Logo](https://github.com/GalacticosAPI/.github/assets/141978742/b233b509-379a-4d99-9435-7dd8e1247418)
+![Purple Abstract Space Astronaut E-Sports Technology Logo](https://github.com/GalacticosAPI/.github/assets/141978742/d608f95a-ed52-45e4-aed6-68b6ced0c18b)
+
 
 </p>
 
