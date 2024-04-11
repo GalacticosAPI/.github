@@ -1,1 +1,193 @@
-# .github
+<p align = "center">
+ 
+# ANÁLISE DO FLUXO DE TRANSPORTES - ORIGEM DE IMPORTAÇÃO/EXPORTAÇÃO AO DESTINO
+
+
+Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+
+</p>
+
+## ÍNDICE
+ + [PROJETO](#projeto)
+ + [EMPRESA](#empresa)
+ + [EQUIPE](#equipe)
+ + [PRAZOS](#prazos)
+ + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
+ + [FUNCIONALIDADES E REGISTROS DAS SPRINTS](#funcionalidades-e-registros-das-sprints)
+ + [REGRAS DE NEGÓCIO](#regras-de-negócio)
+ + [COMPETÊNCIAS DESENVOLVIDAS](#competências-desenvolvidas)
+ + [FERRAMENTAS UTILIZADAS](#ferramentas-utilizadas)
+
+
+## PROJETO
+
+- ### Introdução
+     Mapeamento de dados coletados pelo site do governo, possibilitando a análise do fluxo de transporte de mercadorias importadas e exportadas.
+
+- ### Objetivo
+     Desenvolvimento de uma interface gráfica, permitindo que o cliente possa ter uma análise visual, interativa e ágil do fluxo de dados disponibilizado. Tendo em base, os dados retirados do ComexStat (base de dados do governo), e por meio destes criar uma interface que auxilie e melhore a análise acertiva de movimentação.
+
+- ### Projeto (API) 
+     Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+     Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+
+## EMPRESA
+
+<p align="center">
+  
+![Red White and Black Modern Football Club Logo](https://github.com/GalacticosAPI/.github/assets/141978742/b233b509-379a-4d99-9435-7dd8e1247418)
+
+</p>
+
+ 
+Missão
+ 
+ >Otimização do tempo para análise de dados de forma estratégica, baseado nos históricos de movimentação de carga em ambito nacional, tendo uma eficiencia operacional positiva e facilitando na tomada de decisões
+
+Visão
+
+ >Ser reconhecida como a principal autoridade em análise de dados logísticos, criando um impacto significativo no setor. Pretendemos expandir nossos serviços para novas regiões e ser o parceiro de confiança de empresas em todo o mundo.
+
+Valores
+
+ >Excelência, inovação, integridade, colaboração e sustentabilidade.
+
+## EQUIPE
+
+|NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
+|-----|--------|----------|---------------|
+| Aline Cristina de Azevedo Silva | Scrum Master |
+| Fernando Batistela  | Product Owner |
+| Miriane | Desenvolvedor |
+| Paulinh oloko | Desenvolvedor |
+| Pedrão | Desenvolvedor |
+| Vinicius Moreira de Sousa | Desenvolvedor |
+
+## PRAZOS
+
+> - [x] Kick-off do Projeto -    |
+> - [ ] Entrega Sprint 00   -    |
+> - [ ] Entrega Sprint 01   -    |
+> - [ ] Entrega Sprint 02   -    |
+> - [ ] Entrega Sprint 03   -    |
+> - [ ] Feira de Soluções   -    |
+
+
+### Cronograma
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+#### [Cronograma das Sprints](adicionar o jira)
+
+
+## BACKLOG DAS SPRINTS
+
+- ### Sprint 01 - Desenvolvimento do Projeto
+  
+
+
+- ### Sprint 02 - Implementação
+
+
+
+- ### Sprint 03 - Operacionalização
+
+
+
+## BURNDOWN DAS SPRINTS
+
+
+- #### Burndown da Sprint 1
+
+
+
+- #### Burndown da Sprint 2
+
+
+
+- #### Burndown da Sprint 3
+
+
+
+
+
+
+## FUNCIONALIDADES E REGISTROS DAS SPRINTS
+
+Apresentação do MVP:<p align="center">
+
+
+
+</p>
+
+
+## REGRAS DE NEGÓCIO
+
+- Desenvolvimento de estrutura relacional de tabelas com base nos dados disponibilizados.
+
+- Criação de um Dashboard intuitivo para visualização dos dados apresentados.
+
+- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE
+
+- Documentação do projeto de forma clara e de fácil acesso.
+
+- Utilização da Metodologia ágil
+
+- Power BI / Jira / Canvas / SQL 
+
+## COMPETÊNCIAS DESENVOLVIDAS 
+
+- ### Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Product Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+ </details>
+
+- ### Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+## FERRAMENTAS UTILIZADAS 
+
+- ### Power BI - Produto Final
+<p align="center">
+
+ 
+
+</p>
+
+  
+- ### 5W2H
+
+ 
+
+- ### Metodologia Scrum:
+
+
+
+- ### Tecnologias Específicas/Apoio
+  
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/a2b2af85-35be-45c2-8aa4-ac50af949e3f" width="40px"> 
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px"> 
+
