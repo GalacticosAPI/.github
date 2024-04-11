@@ -192,5 +192,5 @@ Apresentação do MVP:<p align="center">
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px"> 
-
+<img scr= "com037-scaled.jpg" width="40x">
 
