@@ -77,30 +77,30 @@ Valores
 
 
 ### Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, onde é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jirasoftware, onde é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### [Cronograma das Sprints](https://galacts.atlassian.net/jira/software/projects/GL/boards/1/backlog)
 
 
 ## BACKLOG DAS SPRINTS
 
-- ### Sprint 01 - Desenvolvimento do Projeto
-  
-
-
-- ### Sprint 02 - Implementação
+- ### Sprint 02 - Desenvolvimento do Projeto
+  ![image](https://github.com/GalacticosAPI/.github/assets/141978742/50ee466d-499a-4330-a227-41b84832af37)
 
 
 
-- ### Sprint 03 - Operacionalização
+- ### Sprint 03 - Implementação
+  ![image](https://github.com/GalacticosAPI/.github/assets/141978742/dd7744bb-6999-4bbe-afa3-821bd531e750)
+
+
+
+
+- ### Sprint 04 - Operacionalização
+  ![image](https://github.com/GalacticosAPI/.github/assets/141978742/afcec164-06fb-4690-b086-b736da91a925)
 
 
 
 ## BURNDOWN DAS SPRINTS
-
-
-- #### Burndown da Sprint 1
-
 
 
 - #### Burndown da Sprint 2
@@ -108,6 +108,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, onde 
 
 
 - #### Burndown da Sprint 3
+
+
+
+- #### Burndown da Sprint 4
 
 
 
