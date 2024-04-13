@@ -79,7 +79,7 @@ Valores
 ### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, onde é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### [Cronograma das Sprints](adicionar o jira)
+#### [Cronograma das Sprints](https://galacts.atlassian.net/jira/software/projects/GL/boards/1/backlog)
 
 
 ## BACKLOG DAS SPRINTS
