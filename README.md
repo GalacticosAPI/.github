@@ -35,9 +35,8 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 ## EMPRESA
 
 <p align="center">
-  
-![Purple Abstract Space Astronaut E-Sports Technology Logo](https://github.com/GalacticosAPI/.github/assets/141978742/d608f95a-ed52-45e4-aed6-68b6ced0c18b)
-
+ 
+ ![Purple Abstract Space Astronaut E-Sports Technology Logo](https://github.com/GalacticosAPI/.github/assets/141978742/916440d9-ab74-4bc7-9121-d88ccedda3b8)
 
 </p>
 
@@ -58,12 +57,12 @@ Valores
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
-| Aline Cristina de Azevedo Silva | Scrum Master |
-| Fernando Batistela  | Product Owner |
-| Miriane | Desenvolvedor |
-| Paulinh oloko | Desenvolvedor |
-| Pedrão | Desenvolvedor |
-| Vinicius Moreira de Sousa | Desenvolvedor |
+| Aline Cristina de Azevedo Silva | Scrum Master | [LINKEDIN](https://www.linkedin.com/in/alinecristinaazevedo/) |
+| Fernando Batistela  | Product Owner | [LINKEDIN](https://www.linkedin.com/in/fernando-batistella-519167288/) | 
+| Miryhan Caetano | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/miryhan-caetano/) | 
+| Paulinh oloko | Desenvolvedor | [LINKEDIN] | 
+| Pedro Augusto | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | 
+| Vinicius Moreira de Sousa | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287/) | 
 
 ## PRAZOS
 
@@ -176,10 +175,6 @@ Apresentação do MVP:<p align="center">
  
 
 </p>
-
-  
-- ### 5W2H
-
  
 
 - ### Metodologia Scrum:
