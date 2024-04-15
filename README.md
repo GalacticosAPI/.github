@@ -68,8 +68,8 @@ Valores
 
 ## PRAZOS
 
-> - [x] Kick-off do Projeto -   11/03/2024 |
-> - [ ] Entrega Sprint 00   -   15/04/2024 |
+> - [x] Kick-off do Projeto -   11/03/2024 | [Apresentação](https://github.com/GalacticosAPI/.github/files/14984738/Kick-off.API.2N.pptx) |
+> - [ ] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/14984739/Relatorio.Sprint.1.docx) |
 > - [ ] Entrega Sprint 01   -   06/05/2024 |
 > - [ ] Entrega Sprint 02   -   27/05/2024 |
 > - [ ] Entrega Sprint 03   -   17/06/2024 |
@@ -122,6 +122,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 
 Apresentação do MVP:<p align="center">
 
+![image](https://github.com/GalacticosAPI/.github/assets/141978742/4eff0173-4ee2-4afe-81fd-a2c6e650ef25)
 
 
 </p>
@@ -139,7 +140,7 @@ Apresentação do MVP:<p align="center">
 
 - Utilização da Metodologia ágil
 
-- Power BI / Jira / Canvas / SQL 
+- Power BI / Jira / Canvas / Slack / Teams / Excel
 
 ## COMPETÊNCIAS DESENVOLVIDAS 
 
