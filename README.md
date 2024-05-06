@@ -69,7 +69,7 @@ Valores
 ## PRAZOS
 
 > - [x] Kick-off do Projeto -   11/03/2024 | [Apresentação](https://github.com/GalacticosAPI/.github/files/14984738/Kick-off.API.2N.pptx) |
-> - [ ] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/14984739/Relatorio.Sprint.1.docx) |
+> - [ ] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/15226018/Relatorio.Sprint.1.pdf)  |
 > - [ ] Entrega Sprint 01   -   06/05/2024 |
 > - [ ] Entrega Sprint 02   -   27/05/2024 |
 > - [ ] Entrega Sprint 03   -   17/06/2024 |
