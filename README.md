@@ -97,7 +97,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 
 Apresentação do MVP:<p align="center">
 
-![image](https://github.com/GalacticosAPI/.github/assets/141978742/4eff0173-4ee2-4afe-81fd-a2c6e650ef25)
+![GIF DO DASH](https://github.com/GalacticosAPI/.github/assets/141978742/6378ec23-1ff8-4c12-9c14-480592dc8677)
 
 
 </p>
