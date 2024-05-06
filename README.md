@@ -82,40 +82,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 #### [Cronograma das Sprints](https://galacts.atlassian.net/jira/software/projects/GL/boards/1/backlog)
 
 
-## BACKLOG DAS SPRINTS
+## BACKLOG DO PRODUTO
 
-- ### Sprint 02 - Desenvolvimento do Projeto
-  ![image](https://github.com/GalacticosAPI/.github/assets/141978742/50ee466d-499a-4330-a227-41b84832af37)
+- ### Epics do produto
 
-
-
-- ### Sprint 03 - Implementação
-  ![image](https://github.com/GalacticosAPI/.github/assets/141978742/dd7744bb-6999-4bbe-afa3-821bd531e750)
-
-
-
-
-- ### Sprint 04 - Operacionalização
-  ![image](https://github.com/GalacticosAPI/.github/assets/141978742/afcec164-06fb-4690-b086-b736da91a925)
-
-
-
-## BURNDOWN DAS SPRINTS
-
-
-- #### Burndown da Sprint 2
-
-
-
-- #### Burndown da Sprint 3
-
-
-
-- #### Burndown da Sprint 4
-
-
-
-
+- [x] Identificar os modais utilizados nos trâmites internaciosnais de movimentação de cargas
+- [x] Desebgar a geografia do fluxo de exportação de cargas provenientes do estado de SP
+- [x] Desenvolver linha de tendência para as cargas identificadas
+- [x] Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas
+- [x] Desenvolver Dashboard de fluxo de cargas exportadas de SP
 
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
