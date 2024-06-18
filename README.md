@@ -73,7 +73,7 @@ Valores
 > - [x] Entrega Sprint 01   -   06/05/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/15226137/Relatorio.Sprint.2.pdf)  |
 > - [x] Entrega Sprint 02   -   27/05/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/15461711/Relatorio.Sprint.3.pdf)  |
 > - [ ] Entrega Sprint 03   -   17/06/2024 | [Relatório](https://github.com/user-attachments/files/15878372/Relatorio.4.-.PDF.pdf)        |
-> - [ ] Feira de Soluções   -   27/06/2024 | [Feira de Soluções - Galácticos](https://github.com/user-attachments/files/15877075/Feira.de.Solucoes.-.Galacticos.pptx)
+> - [ ] Feira de Soluções   -   27/06/2024 | [Feira de Soluções - Galácticos](https://github.com/user-attachments/files/15878414/Feira.de.Solucoes.-.Galacticos.pptx)
 
 
 
